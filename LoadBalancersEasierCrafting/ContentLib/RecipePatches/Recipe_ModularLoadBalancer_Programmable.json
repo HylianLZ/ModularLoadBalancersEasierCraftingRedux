@@ -1,0 +1,24 @@
+//LoadBalancers/Recipes/Recipe_ModularLoadBalancer_Programmable.Recipe_ModularLoadBalancer_Programmable_C
+{
+  "Name": "Programmable Module",
+  "Ingredients": [
+    {
+      "Item": "Desc_ModularFrameHeavy",
+      "Amount": 1
+    },{
+      "Item": "Desc_Rotor",
+      "Amount": 2
+    },{
+      "Item": "Desc_ComputerSuper",
+      "Amount": 1
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_ModularLoadBalancer_Programmable",
+      "Amount": 1
+    }
+  ],
+  "UnlockedBy": [ "Schematic_1-2" ]
+}
+

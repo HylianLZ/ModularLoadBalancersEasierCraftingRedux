@@ -1,0 +1,21 @@
+//LoadBalancers/Recipes/Recipe_ModularLoadBalancer_Output.Recipe_ModularLoadBalancer_Output_C
+{
+  "Name": "Output Only Module",
+  "Ingredients": [
+    {
+      "Item": "Desc_IronPlate",
+      "Amount": 2
+    },{
+      "Item": "Desc_Cable",
+      "Amount": 2
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_ModularLoadBalancer_Output",
+      "Amount": 1
+    }
+  ],
+  "UnlockedBy": [ "Schematic_1-2" ]
+}
+

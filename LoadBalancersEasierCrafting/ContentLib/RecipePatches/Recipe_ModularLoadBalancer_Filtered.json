@@ -1,0 +1,24 @@
+//LoadBalancers/Recipes/Recipe_ModularLoadBalancer_Filtered.Recipe_ModularLoadBalancer_Filtered_C
+{
+  "Name": "Filter Module",
+  "Ingredients": [
+    {
+      "Item": "Desc_IronPlateReinforced",
+      "Amount": 2
+    },{
+      "Item": "Desc_Rotor",
+      "Amount": 2
+    },{
+      "Item": "Desc_CircuitBoardHighSpeed",
+      "Amount": 1
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_ModularLoadBalancer_Filter",
+      "Amount": 1
+    }
+  ],
+  "UnlockedBy": [ "Schematic_1-2" ]
+}
+

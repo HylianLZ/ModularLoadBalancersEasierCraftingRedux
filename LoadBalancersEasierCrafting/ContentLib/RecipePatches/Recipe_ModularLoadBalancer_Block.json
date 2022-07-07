@@ -1,0 +1,18 @@
+//LoadBalancers/Recipes/Recipe_ModularLoadBalancer_Block.Recipe_ModularLoadBalancer_Block_C
+{
+  "Name": "Block Module",
+  "Ingredients": [
+    {
+      "Item": "Desc_IronPlate",
+      "Amount": 2
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_ModularLoadBalancer_Block",
+      "Amount": 1
+    }
+  ],
+  "UnlockedBy": [ "Schematic_1-2" ]
+}
+

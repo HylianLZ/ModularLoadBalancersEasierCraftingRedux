@@ -1,0 +1,21 @@
+//LoadBalancers/Recipes/Recipe_ModularLoadBalancer_Input.Recipe_ModularLoadBalancer_Input_C
+{
+  "Name": "Input Only Module",
+  "Ingredients": [
+    {
+      "Item": "Desc_IronPlate",
+      "Amount": 2
+    },{
+      "Item": "Desc_IronRod",
+      "Amount": 2
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_ModularLoadBalancer_Input",
+      "Amount": 1
+    }
+  ],
+  "UnlockedBy": [ "Schematic_1-2" ]
+}
+

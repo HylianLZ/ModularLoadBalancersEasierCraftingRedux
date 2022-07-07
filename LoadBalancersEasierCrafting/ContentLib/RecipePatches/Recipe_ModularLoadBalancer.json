@@ -1,0 +1,24 @@
+//LoadBalancers/Recipes/Recipe_ModularLoadBalancer.Recipe_ModularLoadBalancer_C
+{
+  "Name": "Modular Load Balancer",
+  "Ingredients": [
+    {
+      "Item": "Desc_IronPlate",
+      "Amount": 2
+    },{
+      "Item": "Desc_IronRod",
+      "Amount": 2
+    },{
+      "Item": "Desc_Cable",
+      "Amount": 2
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_ModularLoadBalancer",
+      "Amount": 1
+    }
+  ],
+  "UnlockedBy": [ "Schematic_1-2" ]
+}
+
