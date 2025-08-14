@@ -4,10 +4,10 @@
    "Description":"This Mod will lower the building cost of the Modular Load Balancers Mod and also lower the milestone to Tier 1 - Logistics. The building cost for each is equal to the vanilla ones (splitter, merger, filter and programmable) depending on its type",
    "Category":"Modding",
    "CreatedBy":"Motridox, Redux: HylianLZ",
-   "CreatedByURL":"https://ficsit.app/user/A6isWoJHPhUTj | https://ficsit.app/user/75FVcUs74fSwBA",
+   "CreatedByURL":"https://ficsit.app/user/A6isWoJHPhUTj",
    "DocsURL":"",
    "MarketplaceURL":"",
-   "SupportURL":"",
+   "SupportURL":"https://ficsit.app/user/75FVcUs74fSwBA",
    "CanContainContent":true,
    "IsBetaVersion":false,
    "IsExperimentalVersion":false,
@@ -36,3 +36,4 @@
    ]
 
 }
+
