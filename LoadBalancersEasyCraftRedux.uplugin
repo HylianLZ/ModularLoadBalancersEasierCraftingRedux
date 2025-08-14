@@ -1,39 +1,41 @@
 {
-   "FileVersion":3,
-   "FriendlyName":"Modular Load Balancers Easier Crafting",
-   "Description":"This Mod will lower the building cost of the Modular Load Balancers Mod and also lower the milestone to Tier 1 - Logistics. The building cost for each is equal to the vanilla ones (splitter, merger, filter and programmable) depending on its type",
-   "Category":"Modding",
-   "CreatedBy":"Motridox, Redux: HylianLZ",
-   "CreatedByURL":"https://ficsit.app/user/A6isWoJHPhUTj",
-   "DocsURL":"",
-   "MarketplaceURL":"",
-   "SupportURL":"https://ficsit.app/user/75FVcUs74fSwBA",
-   "CanContainContent":true,
-   "IsBetaVersion":false,
-   "IsExperimentalVersion":false,
-   "Installed":false,
-   "Version":1,
-   "VersionName":"1.0.1",
-   "SemVersion":"1.0.1",
-   "Plugins":[
-      {
-         "Name":"SML",
-         "Enabled":true,
-         "SemVersion":"^3.11.0"
-      },{
-         "Name":"ContentLib",
-         "Enabled":true,
-         "SemVersion":"^1.8.0",
-         "bIsOptional":false,
-         "bIsBasePlugin":false
-      },{
-         "Name":"LoadBalancers",
-         "Enabled":true,
-         "SemVersion":"^1.15.0",
-         "bIsOptional":false,
-         "bIsBasePlugin":false
-      }
-   ]
-
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"SemVersion": "1.0.0",
+	"FriendlyName": "Modular Load Balancers Easier Crafting",
+	"Description": "This Mod will lower the building cost of the Modular Load Balancers Mod and also lower the milestone to Tier 1 - Logistics. The building cost for each is equal to the vanilla ones (splitter, merger, filter and programmable) depending on its type",
+	"Category": "Modding",
+	"CreatedBy": "Motridox",
+	"CreatedByURL": "https://ficsit.app/user/A6isWoJHPhUTj",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "https://ficsit.app/user/75FVcUs74fSwBA",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.11.0"
+		},
+		{
+			"Name": "ContentLib",
+			"Enabled": true,
+			"SemVersion": "^1.8.0",
+			"bIsOptional": false,
+			"bIsBasePlugin": false
+		},
+		{
+			"Name": "LoadBalancers",
+			"Enabled": true,
+			"SemVersion": "^1.15.0",
+			"bIsOptional": false,
+			"bIsBasePlugin": false
+		}
+	],
+	"GameVersion": ">=416835"
 }
 
