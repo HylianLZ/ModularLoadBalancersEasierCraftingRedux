@@ -3,8 +3,8 @@
    "FriendlyName":"Modular Load Balancers Easier Crafting",
    "Description":"This Mod will lower the building cost of the Modular Load Balancers Mod and also lower the milestone to Tier 1 - Logistics. The building cost for each is equal to the vanilla ones (splitter, merger, filter and programmable) depending on its type",
    "Category":"Modding",
-   "CreatedBy":"Motridox",
-   "CreatedByURL":"https://ficsit.app/user/A6isWoJHPhUTj",
+   "CreatedBy":"Motridox, Redux: HylianLZ",
+   "CreatedByURL":"https://ficsit.app/user/A6isWoJHPhUTj | https://ficsit.app/user/75FVcUs74fSwBA",
    "DocsURL":"",
    "MarketplaceURL":"",
    "SupportURL":"",
@@ -13,25 +13,26 @@
    "IsExperimentalVersion":false,
    "Installed":false,
    "Version":1,
-   "VersionName":"1.0.0",
-   "SemVersion":"1.0.0",
+   "VersionName":"1.0.1",
+   "SemVersion":"1.0.1",
    "Plugins":[
       {
          "Name":"SML",
          "Enabled":true,
-         "SemVersion":"^3.2.0"
+         "SemVersion":"^3.11.0"
       },{
          "Name":"ContentLib",
          "Enabled":true,
-         "SemVersion":"^0.2.0",
+         "SemVersion":"^1.8.0",
          "bIsOptional":false,
          "bIsBasePlugin":false
       },{
          "Name":"LoadBalancers",
          "Enabled":true,
-         "SemVersion":"^1.5.1",
+         "SemVersion":"^1.15.0",
          "bIsOptional":false,
          "bIsBasePlugin":false
       }
    ]
+
 }
